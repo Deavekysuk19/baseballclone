@@ -473,15 +473,7 @@ nav a {
 	              <a class="dropdown-item" href="/baseball/selectList.qa">Q & A</a>
 	            </div>
 	          </li>
-	          <li class="nav-item dropdown">
-	            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-	              test&nbsp;&nbsp;&nbsp;
-	            </a>
-	            <div class="dropdown-menu bg-dark"  id="dropdown-menu"  aria-labelledby="navbarDropdownMenuLink">
-	              <a class="dropdown-item" href="/baseball/searchNotice.no">test</a>
-	              <a class="dropdown-item" href="/baseball/selectList.qa">test</a>
-	            </div>
-	          </li>
+	        
 	          
 	         	   
 	           
