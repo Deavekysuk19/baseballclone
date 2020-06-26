@@ -75,9 +75,10 @@ nav a {
 		<% } else { %>
 			<li class="nav-item dropdown" style="margin-left:auto;">
 				<!-- <b style="display: inline; color: white;">&nbsp;님 환영합니다.</b> -->
-				<p>
+				
+				<!-- 수정 -->
 					<a class="nav-link" style="display: inline; color: white;"><b><%= m.getUsername() %>님 환영합니다.</b></a>
-				</p>
+				
 			
 			  
 				<a class="nav-link" href="#" style="display: inline; color: white;" onclick="changeInfo();">마이페이지
