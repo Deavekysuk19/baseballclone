@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/config/board.properties=UTF-8
+encoding//src/config/comment.properties=UTF-8
+encoding//src/config/member.properties=UTF-8
+encoding//src/config/notice.properties=UTF-8
+encoding//src/config/qa.properties=UTF-8
+encoding//src/config/review.properties=UTF-8
+encoding//src/config/ticketing.properties=UTF-8
+encoding//webapps/views/baseballClub/clubIntroduce.jsp=UTF-8
+encoding//webapps/views/baseballClub/rank.jsp=UTF-8
+encoding//webapps/views/ticketing/skticketing.jsp=UTF-8
